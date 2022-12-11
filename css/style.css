@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #fac28a;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+header h1 {
+    padding: 30px;
+    text-align: center;
+    background-image: linear-gradient(to top,#fac28a, #f8942fd3);
+    color: white;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.603);
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.603);
+}
+
+main {
+    margin: 0 auto;
+    width: 1024px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.479);
+}
+
+.conteiner-item {
+    padding: 15px;
+}
